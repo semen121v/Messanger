@@ -83,6 +83,7 @@
             <version>${lombok-mapstruct-binding.version}</version>
         </dependency>
 
+
     </dependencies>
 
     <build>
